@@ -1,0 +1,6 @@
+Library Management System
+Created by: Muhammad Huzaifa
+Roll Number: BCSF24M552
+Total Books: 0
+Data File: books.dat
+Max Capacity: 1000
